@@ -7,7 +7,7 @@ Bash is a popular command line interpreter and the default option on Linux. In t
 
 ### Instructor
 
-Scott Simpson
+Scott Simpson (Test)
 
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/scott-simpson).
 
